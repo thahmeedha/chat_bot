@@ -19,8 +19,7 @@ This project is a simple AI chatbot desktop application built using Python and T
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/thahmeedha/chat_bot.git
 
 2. Install dependencies:
 
